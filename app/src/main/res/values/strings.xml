@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Biblioteca</string>
+
+    <string name="email">Email</string>
+    <string name="senha">Senha</string>
+    <string name="btn_entrar">Entrar</string>
+    <string name="msg">Não tem cadastro?</string>
+    <string name="foto_cd">Foto do usuário</string>
+
+</resources>
