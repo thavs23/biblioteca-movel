@@ -6,5 +6,12 @@
     <string name="btn_entrar">Entrar</string>
     <string name="msg">Não tem cadastro?</string>
     <string name="foto_cd">Foto do usuário</string>
+    <string name="nome">Nome</string>
+    <string name="fone">Telefone</string>
+    <string name="confirmsenha">Confirmar senha</string>
+    <string name="btn_salvar">Salvar</string>
+    <string name="msg_campo_Obrigatorio">Este campo é obrigatório</string>
+    <string name="msg_registro_salvo">Registro salvo com sucesso!</string>
+
 
 </resources>
